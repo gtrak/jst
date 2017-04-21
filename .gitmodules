@@ -1,0 +1,300 @@
+[submodule "async"]
+	path = async
+	url = git@github.com:janestreet/async.git
+[submodule "async_kernel"]
+	path = async_kernel
+	url = git@github.com:janestreet/async_kernel.git
+[submodule "async_extra"]
+	path = async_extra
+	url = git@github.com:janestreet/async_extra.git
+[submodule "async_unix"]
+	path = async_unix
+	url = git@github.com:janestreet/async_unix.git
+[submodule "bin_prot"]
+	path = bin_prot
+	url = git@github.com:janestreet/bin_prot.git
+[submodule "core"]
+	path = core
+	url = git@github.com:janestreet/core.git
+[submodule "comparelib"]
+	path = comparelib
+	url = git@github.com:janestreet/comparelib.git
+[submodule "core_extended"]
+	path = core_extended
+	url = git@github.com:janestreet/core_extended.git
+[submodule "fieldslib"]
+	path = fieldslib
+	url = git@github.com:janestreet/fieldslib.git
+[submodule "pa_ounit"]
+	path = pa_ounit
+	url = git@github.com:janestreet/pa_ounit.git
+[submodule "pipebang"]
+	path = pipebang
+	url = git@github.com:janestreet/pipebang.git
+[submodule "sexplib"]
+	path = sexplib
+	url = git@github.com:janestreet/sexplib.git
+[submodule "type_conv"]
+	path = type_conv
+	url = git@github.com:janestreet/type_conv.git
+[submodule "typehashlib"]
+	path = typehashlib
+	url = git@github.com:janestreet/typehashlib.git
+[submodule "variantslib"]
+	path = variantslib
+	url = git@github.com:janestreet/variantslib.git
+[submodule "janestreet.github.com"]
+	path = janestreet.github.com
+	url = git@github.com:janestreet/janestreet.github.com.git
+[submodule "herelib"]
+	path = herelib
+	url = git@github.com:janestreet/herelib.git
+[submodule "patdiff"]
+	path = patdiff
+	url = git@github.com:janestreet/patdiff.git
+[submodule "ocaml_plugin"]
+	path = ocaml_plugin
+	url = git@github.com:janestreet/ocaml_plugin.git
+[submodule "custom_printf"]
+	path = custom_printf
+	url = git@github.com:janestreet/custom_printf.git
+[submodule "async_find"]
+	path = async_find
+	url = git@github.com:janestreet/async_find.git
+[submodule "async_shell"]
+	path = async_shell
+	url = git@github.com:janestreet/async_shell.git
+[submodule "async_inotify"]
+	path = async_inotify
+	url = git@github.com:janestreet/async_inotify.git
+[submodule "jenga"]
+	path = jenga
+	url = git@github.com:janestreet/jenga.git
+[submodule "async_parallel"]
+	path = async_parallel
+	url = git@github.com:janestreet/async_parallel.git
+[submodule "re2"]
+	path = re2
+	url = git@github.com:janestreet/re2.git
+[submodule "core_bench"]
+	path = core_bench
+	url = git@github.com:janestreet/core_bench.git
+[submodule "textutils"]
+	path = textutils
+	url = git@github.com:janestreet/textutils.git
+[submodule "typerep"]
+	path = typerep
+	url = git@github.com:janestreet/typerep.git
+[submodule "core_kernel"]
+	path = core_kernel
+	url = git@github.com:janestreet/core_kernel.git
+[submodule "pa_test"]
+	path = pa_test
+	url = git@github.com:janestreet/pa_test.git
+[submodule "faillib"]
+	path = faillib
+	url = git@github.com:janestreet/faillib.git
+[submodule "lwt-async"]
+	path = lwt-async
+	url = git@github.com:janestreet/lwt-async.git
+[submodule "pa_bench"]
+	path = pa_bench
+	url = git@github.com:janestreet/pa_bench.git
+[submodule "enumerate"]
+	path = enumerate
+	url = git@github.com:janestreet/enumerate.git
+[submodule "async_ssl"]
+	path = async_ssl
+	url = git@github.com:janestreet/async_ssl.git
+[submodule "bignum"]
+	path = bignum
+	url = git@github.com:janestreet/bignum.git
+[submodule "patience_diff"]
+	path = patience_diff
+	url = git@github.com:janestreet/patience_diff.git
+[submodule "async_extended"]
+	path = async_extended
+	url = git@github.com:janestreet/async_extended.git
+[submodule "rpc_parallel"]
+	path = rpc_parallel
+	url = git@github.com:janestreet/rpc_parallel.git
+[submodule "email_message"]
+	path = email_message
+	url = git@github.com:janestreet/email_message.git
+[submodule "async_smtp"]
+	path = async_smtp
+	url = git@github.com:janestreet/async_smtp.git
+[submodule "typerep_extended"]
+	path = typerep_extended
+	url = git@github.com:janestreet/typerep_extended.git
+[submodule "postgresql-ocaml"]
+	path = postgresql-ocaml
+	url = git@github.com:janestreet/postgresql-ocaml.git
+[submodule "core_profiler"]
+	path = core_profiler
+	url = git@github.com:janestreet/core_profiler.git
+[submodule "result"]
+	path = result
+	url = git@github.com:janestreet/result.git
+[submodule "opamcheck"]
+	path = opamcheck
+	url = git@github.com:janestreet/opamcheck.git
+[submodule "async_rpc_kernel"]
+	path = async_rpc_kernel
+	url = git@github.com:janestreet/async_rpc_kernel.git
+[submodule "pa_structural_sexp"]
+	path = pa_structural_sexp
+	url = git@github.com:janestreet/pa_structural_sexp.git
+[submodule "incremental"]
+	path = incremental
+	url = git@github.com:janestreet/incremental.git
+[submodule "camlp4-to-ppx"]
+	path = camlp4-to-ppx
+	url = git@github.com:janestreet/camlp4-to-ppx.git
+[submodule "ppx_assert"]
+	path = ppx_assert
+	url = git@github.com:janestreet/ppx_assert.git
+[submodule "ppx_type_conv"]
+	path = ppx_type_conv
+	url = git@github.com:janestreet/ppx_type_conv.git
+[submodule "ppx_bin_prot"]
+	path = ppx_bin_prot
+	url = git@github.com:janestreet/ppx_bin_prot.git
+[submodule "ppx_xml_conv"]
+	path = ppx_xml_conv
+	url = git@github.com:janestreet/ppx_xml_conv.git
+[submodule "ppx_custom_printf"]
+	path = ppx_custom_printf
+	url = git@github.com:janestreet/ppx_custom_printf.git
+[submodule "ppx_compare"]
+	path = ppx_compare
+	url = git@github.com:janestreet/ppx_compare.git
+[submodule "ppx_bench"]
+	path = ppx_bench
+	url = git@github.com:janestreet/ppx_bench.git
+[submodule "ppx_conv_func"]
+	path = ppx_conv_func
+	url = git@github.com:janestreet/ppx_conv_func.git
+[submodule "ppx_inline_test"]
+	path = ppx_inline_test
+	url = git@github.com:janestreet/ppx_inline_test.git
+[submodule "ppx_core"]
+	path = ppx_core
+	url = git@github.com:janestreet/ppx_core.git
+[submodule "ppx_csv_conv"]
+	path = ppx_csv_conv
+	url = git@github.com:janestreet/ppx_csv_conv.git
+[submodule "ppx_typerep_conv"]
+	path = ppx_typerep_conv
+	url = git@github.com:janestreet/ppx_typerep_conv.git
+[submodule "ppx_pipebang"]
+	path = ppx_pipebang
+	url = git@github.com:janestreet/ppx_pipebang.git
+[submodule "ppx_here"]
+	path = ppx_here
+	url = git@github.com:janestreet/ppx_here.git
+[submodule "ppx_variants_conv"]
+	path = ppx_variants_conv
+	url = git@github.com:janestreet/ppx_variants_conv.git
+[submodule "ppx_fields_conv"]
+	path = ppx_fields_conv
+	url = git@github.com:janestreet/ppx_fields_conv.git
+[submodule "ppx_fail"]
+	path = ppx_fail
+	url = git@github.com:janestreet/ppx_fail.git
+[submodule "ppx_optcomp"]
+	path = ppx_optcomp
+	url = git@github.com:janestreet/ppx_optcomp.git
+[submodule "ppx_sexp_conv"]
+	path = ppx_sexp_conv
+	url = git@github.com:janestreet/ppx_sexp_conv.git
+[submodule "ppx_enumerate"]
+	path = ppx_enumerate
+	url = git@github.com:janestreet/ppx_enumerate.git
+[submodule "ppx_sexp_value"]
+	path = ppx_sexp_value
+	url = git@github.com:janestreet/ppx_sexp_value.git
+[submodule "ppx_driver"]
+	path = ppx_driver
+	url = git@github.com:janestreet/ppx_driver.git
+[submodule "ocp-indent"]
+	path = ocp-indent
+	url = git@github.com:janestreet/ocp-indent.git
+[submodule "ocaml"]
+	path = ocaml
+	url = git@github.com:janestreet/ocaml.git
+[submodule "pa_sexp_conv"]
+	path = pa_sexp_conv
+	url = git@github.com:janestreet/pa_sexp_conv.git
+[submodule "pa_bin_prot"]
+	path = pa_bin_prot
+	url = git@github.com:janestreet/pa_bin_prot.git
+[submodule "pa_typerep_conv"]
+	path = pa_typerep_conv
+	url = git@github.com:janestreet/pa_typerep_conv.git
+[submodule "pa_fields_conv"]
+	path = pa_fields_conv
+	url = git@github.com:janestreet/pa_fields_conv.git
+[submodule "pa_variants_conv"]
+	path = pa_variants_conv
+	url = git@github.com:janestreet/pa_variants_conv.git
+[submodule "ppx_expect"]
+	path = ppx_expect
+	url = git@github.com:janestreet/ppx_expect.git
+[submodule "ppx_jane"]
+	path = ppx_jane
+	url = git@github.com:janestreet/ppx_jane.git
+[submodule "ppx_sexp_message"]
+	path = ppx_sexp_message
+	url = git@github.com:janestreet/ppx_sexp_message.git
+[submodule "ppx_let"]
+	path = ppx_let
+	url = git@github.com:janestreet/ppx_let.git
+[submodule "incremental_kernel"]
+	path = incremental_kernel
+	url = git@github.com:janestreet/incremental_kernel.git
+[submodule "toplevel_expect_test"]
+	path = toplevel_expect_test
+	url = git@github.com:janestreet/toplevel_expect_test.git
+[submodule "js-build-tools"]
+	path = js-build-tools
+	url = git@github.com:janestreet/js-build-tools.git
+[submodule "jane-street-tests"]
+	path = jane-street-tests
+	url = git@github.com:janestreet/jane-street-tests.git
+[submodule "jane-street-build-server"]
+	path = jane-street-build-server
+	url = git@github.com:janestreet/jane-street-build-server.git
+[submodule "opam-repository"]
+	path = opam-repository
+	url = git@github.com:janestreet/opam-repository.git
+[submodule "iron"]
+	path = iron
+	url = git@github.com:janestreet/iron.git
+[submodule "ppx_hash"]
+	path = ppx_hash
+	url = git@github.com:janestreet/ppx_hash.git
+[submodule "main-opam-repository"]
+	path = main-opam-repository
+	url = git@github.com:janestreet/main-opam-repository.git
+[submodule "incr_map"]
+	path = incr_map
+	url = git@github.com:janestreet/incr_map.git
+[submodule "virtual_dom"]
+	path = virtual_dom
+	url = git@github.com:janestreet/virtual_dom.git
+[submodule "async_http_js"]
+	path = async_http_js
+	url = git@github.com:janestreet/async_http_js.git
+[submodule "incr_dom"]
+	path = incr_dom
+	url = git@github.com:janestreet/incr_dom.git
+[submodule "jenga-rules"]
+	path = jenga-rules
+	url = git@github.com:janestreet/jenga-rules.git
+[submodule "jane-build"]
+	path = jane-build
+	url = git@github.com:janestreet/jane-build.git
+[submodule "command_rpc"]
+	path = command_rpc
+	url = git@github.com:janestreet/command_rpc.git
